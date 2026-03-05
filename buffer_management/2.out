@@ -1,0 +1,6 @@
+read 4
+read 5
+read 1
+read 6
+remove 5
+read 7
