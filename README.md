@@ -1,6 +1,6 @@
 # Database System Implementation 
 
-This repository contains Python implementations of core database system mechanisms, developed as part of a Database System Implementation course[cite: 1]. It features a dynamic B+ Tree for indexing and a Buffer Management Simulator for optimizing disk I/O.
+This repository contains Python implementations of core database system mechanisms, developed as part of a Database System Implementation course. It features a dynamic B+ Tree for indexing and a Buffer Management Simulator for optimizing disk I/O.
 
 ## Components
 
